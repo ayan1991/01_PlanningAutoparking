@@ -1,0 +1,51 @@
+filename.\20181106173259.txt
+[Success ]: i  =  :1 ;start_pos: x=239 ; y=287 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :239 ;287 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Failed ]: i  =  :2 ;start_pos: x=244.5 ; y=269 ;yaw=0.01744;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :244.5 ;269 ;0.01744;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Success ]: i  =  :3 ;start_pos: x=311 ; y=290 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :311 ;290 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :20%
+[Success ]: i  =  :4 ;start_pos: x=311 ; y=290 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :311 ;290 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :30%
+[Failed ]: i  =  :5 ;start_pos: x=235.5 ; y=259.5 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :235.5 ;259.5 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :30%
+[Success ]: i  =  :6 ;start_pos: x=676 ; y=282 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :676 ;282 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :40%
+[Success ]: i  =  :7 ;start_pos: x=676 ; y=282 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :676 ;282 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :50%
+[Success ]: i  =  :8 ;start_pos: x=794 ; y=339.5 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :794 ;339.5 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :60%
+[Success ]: i  =  :9 ;start_pos: x=794 ; y=339.5 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :794 ;339.5 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :70%
+[Success ]: i  =  :10 ;start_pos: x=548 ; y=308.5 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :548 ;308.5 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :80%
