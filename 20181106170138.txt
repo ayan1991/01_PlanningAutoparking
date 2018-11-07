@@ -1,0 +1,51 @@
+filename.\20181106170138.txt
+[Success ]: i  =  :1 ;start_pos: x=433.5 ; y=340 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :433.5 ;340 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Failed ]: i  =  :2 ;start_pos: x=716 ; y=308.5 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :716 ;308.5 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Failed ]: i  =  :3 ;start_pos: x=631 ; y=340 ;yaw=-0.13952;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :631 ;340 ;-0.13952;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Failed ]: i  =  :4 ;start_pos: x=752 ; y=330.5 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :752 ;330.5 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Failed ]: i  =  :5 ;start_pos: x=509 ; y=343.5 ;yaw=0.12208;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :509 ;343.5 ;0.12208;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Failed ]: i  =  :6 ;start_pos: x=509 ; y=343.5 ;yaw=0.12208;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :509 ;343.5 ;0.12208;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Failed ]: i  =  :7 ;start_pos: x=509 ; y=343.5 ;yaw=0.12208;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :509 ;343.5 ;0.12208;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Failed ]: i  =  :8 ;start_pos: x=630 ; y=334 ;yaw=-0.13952;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :630 ;334 ;-0.13952;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Failed ]: i  =  :9 ;start_pos: x=787.5 ; y=324.5 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :787.5 ;324.5 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
+[Failed ]: i  =  :10 ;start_pos: x=787.5 ; y=324.5 ;yaw=0;end_pos:x=475 ;y=525 ;yaw=-1.57075
+VERTICAL =1, PARALLEL=2, INCLINE=3
+mode =  :1
+start_pos =  :787.5 ;324.5 ;0;end_pos:475 ;525 ;-1.57075
+raito =success_time/LoopCount  :10%
